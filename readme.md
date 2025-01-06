@@ -1,6 +1,9 @@
 # Futbol Ligi Yönetim Sistemi
 
-Bu proje, futbol takımlarını, oyuncuları, maç sonuçlarını ve lig sıralamalarını yöneten bir sistemdir. Ayrıca maç sonuçlarını simüle ederek sıralamaları dinamik bir şekilde günceller. Projede çeşitli veri yapıları kullanılmıştır: **Bağlı Liste (Linked List), Kuyruk (Queue), Yığın (Stack), Hash Tablosu, Heap ve İkili Arama Ağacı (Binary Search Tree - BST)**.
+Bu proje, futbol takımlarını, oyuncuları, maç sonuçlarını ve lig sıralamalarını yöneten bir sistemdir.
+Ayrıca maç sonuçlarını simüle ederek sıralamaları dinamik bir şekilde günceller.
+Projede çeşitli veri yapıları kullanılmıştır:
+**Bağlı Liste (Linked List), Kuyruk (Queue), Yığın (Stack), Hash Tablosu, Heap ve İkili Arama Ağacı (Binary Search Tree - BST)**.
 
 ## Özellikler
 
